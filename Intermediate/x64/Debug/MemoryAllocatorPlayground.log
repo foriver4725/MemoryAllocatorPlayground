@@ -1,3 +1,0 @@
-﻿  MemoryAllocatorPlayground.cpp
-F:\GameProjects\MemoryAllocatorPlayground\MemoryAllocatorPlayground\MemoryAllocatorPlayground.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
-  MemoryAllocatorPlayground.vcxproj -> F:\GameProjects\MemoryAllocatorPlayground\Output\x64\Debug\MemoryAllocatorPlayground.exe
