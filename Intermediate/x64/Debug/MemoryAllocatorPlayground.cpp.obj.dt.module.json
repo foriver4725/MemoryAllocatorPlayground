@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "F:\\GameProjects\\MemoryAllocatorPlayground\\Intermediate\\x64\\Debug\\MemoryAllocatorPlayground.obj",
+            "outputs": [
+                "F:\\GameProjects\\MemoryAllocatorPlayground\\Intermediate\\x64\\Debug\\MemoryAllocatorPlayground.cpp.obj.dt.module.json",
+                "F:\\GameProjects\\MemoryAllocatorPlayground\\Intermediate\\x64\\Debug\\MemoryAllocatorPlayground.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
